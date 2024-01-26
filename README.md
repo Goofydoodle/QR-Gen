@@ -11,7 +11,7 @@
 
 <img src="https://www.dropbox.com/scl/fi/95bjf5azr3jrm9bcxpruy/example_qr.png?rlkey=80gjublidb47ppve5o9c3wft3&amp;raw=1" alt="project-screenshot" width="200" height="200/">
 
-<img src="https://www.dropbox.com/scl/fi/xg6gazm7fy9o2clw3s567/Screenshot_14.png?rlkey=glf46054ihz7x5axjcow3tyce&amp;raw=1" alt="project-screenshot" width="500" height="500/">
+<img src="https://www.dropbox.com/scl/fi/xg6gazm7fy9o2clw3s567/Screenshot_14.png?rlkey=glf46054ihz7x5axjcow3tyce&amp;raw=1" alt="project-screenshot" width="1280" height="720/">
 
   
   
