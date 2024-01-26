@@ -1,26 +1,25 @@
+<h1 align="center" id="title">QR-Gen</h1>
 
-# QR Code generator 
-
-A simple and fast CLI QR Code generator written in Python.
-![Logo](https://www.dropbox.com/scl/fi/ikbtrium5ovv00716gsik/icongit.png?rlkey=7m3q0x11jbhduqw7vk4zp4q69&raw=1)
+<p align="center"><img src="https://socialify.git.ci/Goofydoodle/QR-Gen/image?description=1&amp;font=KoHo&amp;logo=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fikbtrium5ovv00716gsik%2Ficongit.png%3Frlkey%3D7m3q0x11jbhduqw7vk4zp4q69%26raw%3D1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;theme=Dark" alt="project-image"></p>
 
 
-## Authors
+<h2>🛠️ Install here:</h2>
 
-- [@Goofydoodle](https://github.com/Goofydoodle)
-- U.V Aardash 
-- Shaaz
-## Example
+[Releases](https://github.com/Goofydoodle/QR-Gen/releases/tag/Release)
 
-- Example of QRcode made by this project
-![QR](https://www.dropbox.com/scl/fi/95bjf5azr3jrm9bcxpruy/example_qr.png?rlkey=80gjublidb47ppve5o9c3wft3&raw=1)
+<h2>Project Screenshots:</h2>
 
+<img src="https://www.dropbox.com/scl/fi/95bjf5azr3jrm9bcxpruy/example_qr.png?rlkey=80gjublidb47ppve5o9c3wft3&amp;raw=1" alt="project-screenshot" width="200" height="200/">
 
+<img src="https://www.dropbox.com/scl/fi/xg6gazm7fy9o2clw3s567/Screenshot_14.png?rlkey=glf46054ihz7x5axjcow3tyce&amp;raw=1" alt="project-screenshot" width="500" height="500/">
 
+  
+  
+<h2>🧐 Features</h2>
 
+Here're some of the project's best features:
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+*   Customized colors for your qr codes
+*   No python required
+*   Fast and Easy to use
 
