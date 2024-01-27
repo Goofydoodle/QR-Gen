@@ -1,6 +1,6 @@
 <h1 align="center" id="title">QR-Gen</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Goofydoodle/QR-Gen/image?description=1&amp;font=KoHo&amp;logo=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fikbtrium5ovv00716gsik%2Ficongit.png%3Frlkey%3D7m3q0x11jbhduqw7vk4zp4q69%26raw%3D1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Goofydoodle/QR-Gen/image?description=1&font=KoHo&logo=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fikbtrium5ovv00716gsik%2Ficongit.png%3Frlkey%3D7m3q0x11jbhduqw7vk4zp4q69%26raw%3D1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark" alt="project-image"></p>
 
 
 <h2>🛠️ Install here:</h2>
