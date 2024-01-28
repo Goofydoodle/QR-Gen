@@ -20,7 +20,7 @@ Go to [releases](https://github.com/Goofydoodle/QR-Gen/releases) download the la
 ![](https://www.dropbox.com/scl/fi/ca0c1iiv32ejr3brgzytj/useage.gif?rlkey=ltxid6f4r9ay3s2r0fsb9nbbu&raw=1)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Goofydoodle/QR-Gen/blob/main/LICENSE)
 
 
 
