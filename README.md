@@ -19,6 +19,11 @@ Go to [releases](https://github.com/Goofydoodle/QR-Gen/releases) download the la
 ## Usage
 ![](https://www.dropbox.com/scl/fi/ca0c1iiv32ejr3brgzytj/useage.gif?rlkey=ltxid6f4r9ay3s2r0fsb9nbbu&raw=1)
 
+## Contributors
+- [@NotAdharsh](https://github.com/NotAdharsh)
+
+- Shaaz (could not find his github)
+
 ## License
 [MIT](https://github.com/Goofydoodle/QR-Gen/blob/main/LICENSE)
 
